@@ -2,7 +2,7 @@
 Strona firmy organizującej wycieczki po Włoszech
 
 
-![Mockup](img/SMAKI ITALII MOCKUP.jpg)
+![Mockup](img/SMAKI_ITALII_MOCKUP.jpg)
 
 ## Demo
 * [Demo Version](https://karczynskijakub.github.io/Smaki-Italii/)
